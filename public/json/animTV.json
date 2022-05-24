@@ -1,0 +1,184 @@
+{
+  "frames": {
+    "tv trans 0.png": {
+      "frame": {
+        "x": 462,
+        "y": 0,
+        "w": 462,
+        "h": 223
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 88,
+        "y": 35,
+        "w": 462,
+        "h": 223
+      },
+      "sourceSize": {
+        "w": 550,
+        "h": 550
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tv trans 1.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 462,
+        "h": 234
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 88,
+        "y": 24,
+        "w": 462,
+        "h": 234
+      },
+      "sourceSize": {
+        "w": 550,
+        "h": 550
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    
+    "tv trans 2.png": {
+      "frame": {
+        "x": 924,
+        "y": 0,
+        "w": 462,
+        "h": 223
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 88,
+        "y": 35,
+        "w": 462,
+        "h": 223
+      },
+      "sourceSize": {
+        "w": 550,
+        "h": 550
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tv trans 3.png": {
+      "frame": {
+        "x": 1386,
+        "y": 0,
+        "w": 462,
+        "h": 223
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 88,
+        "y": 35,
+        "w": 462,
+        "h": 223
+      },
+      "sourceSize": {
+        "w": 550,
+        "h": 550
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tv trans 4.png": {
+      "frame": {
+        "x": 462,
+        "y": 223,
+        "w": 462,
+        "h": 223
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 88,
+        "y": 35,
+        "w": 462,
+        "h": 223
+      },
+      "sourceSize": {
+        "w": 550,
+        "h": 550
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tv trans 5.png": {
+      "frame": {
+        "x": 0,
+        "y": 234,
+        "w": 462,
+        "h": 223
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 88,
+        "y": 35,
+        "w": 462,
+        "h": 223
+      },
+      "sourceSize": {
+        "w": 550,
+        "h": 550
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tv trans 6.png": {
+      "frame": {
+        "x": 924,
+        "y": 223,
+        "w": 380,
+        "h": 212
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 88,
+        "y": 35,
+        "w": 380,
+        "h": 212
+      },
+      "sourceSize": {
+        "w": 550,
+        "h": 550
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "animTV.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1848,
+      "h": 457
+    },
+    "scale": 1
+  }
+}
